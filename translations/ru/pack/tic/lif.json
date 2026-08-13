@@ -1,32 +1,81 @@
 [
     {
+        "code": "07220",
+        "name": "Священные чётки",
+        "slot": "Аксессуар",
+        "text": "У вас +1 [willpower].\n[reaction] После того как вы успешно прошли проверку [willpower] с карты напасти, поверните «Священные чётки»: Добавьте в мешок хаоса 2 жетона [bless].",
+        "traits": "Вещь. Оберег. Благословенный."
+    },
+    {
         "code": "07221",
-        "name": "Shield of Faith",
-        "text": "Seal (up to 5 [bless]). If Shield of Faith has no tokens sealed on it, discard it.\n[reaction] When an enemy attacks an investigator at your location, exhaust Shield of Faith and release a chaos token sealed here: Cancel that attack.",
-        "traits": "Spell. Blessed.",
-        "slot": "Arcane"
+        "name": "Щит веры",
+        "slot": "Магический",
+        "text": "Печать (до 5 [bless]). Если на «Щите веры» нет запечатанных жетонов, сбросьте его.\n[reaction] Когда враг атакует сыщика в вашей локации, поверните «Щит веры» и освободите 1 из запечатанных здесь жетонов: Отмените эту атаку.",
+        "traits": "Заклинание. Благословенное."
+    },
+    {
+        "code": "07222",
+        "flavor": "Кто Пака славным малым называет,\nТем Пак несёт удачу и по делу помогает.\nУильям Шекспир «Сон в летнюю ночь»",
+        "name": "Неотвратимость",
+        "text": "Если в этой проверке вытянут жетон [curse], можете вернуть «Неотвратимость» себе на руку после окончания этой проверки.",
+        "traits": "Врождённый. Проклятый."
+    },
+    {
+        "code": "07223",
+        "name": "Невидимые наставления",
+        "slot": "Магический",
+        "text": "Многоразовые (4 тайны).\n[fast] При проверке навыка в вашей локации: Проходящий её сыщик может найти среди 3 верхних карт своей колоды карту, которую можно добавить к этой проверке. Вы можете потратить 1 тайну, чтобы добавить ту карту к проверке. Перемешайте колоду сыщика, проходящего проверку. (Не чаще 1 раза за проверку.)",
+        "traits": "Ритуал."
     },
     {
         "code": "07224",
-        "name": "\"Lucky\" Penny",
-        "subname": "Omen of Misfortune",
-        "text": "Exceptional.\n<b>Forced</b> - When you reveal a [bless] or [curse] token during a skill test you are performing: Flip a coin. On a heads, treat that token as a [bless] token. On a tails, treat that token as a [curse] token. If you treat a [bless] token as a [curse] token as a result of this effect, draw 1 card.",
-        "traits": "Item. Charm. Cursed.",
-        "slot": "Accessory"
+        "name": "«Счастливая» монетка",
+        "slot": "Аксессуар",
+        "subname": "Дурной знак",
+        "text": "Исключительная.\n<b>Обязательно</b> — После того как в проверке навыка, которую вы проходите, вытянут жетон [bless] или [curse]: Подбросьте монетку. Если выпал орёл, считайте вытянутый жетон жетоном [bless]. Если выпала решка, считайте вытянутый жетон жетоном [curse]. Если по этому эффекту вы считаете жетон [bless] жетоном [curse], возьмите 1 карту.",
+        "traits": "Вещь. Оберег. Проклятый."
     },
     {
         "code": "07225",
-        "name": "Eye of the Djinn",
-        "subname": "Vessel of Good and Evil",
-        "text": "Exceptional.\n[reaction] When you initiate a skill test during your turn, exhaust Eye of the Djinn: Set your base skill value to 5 for this test. If a [bless] token is revealed during this test, ready Eye of the Djinn. If a [curse] token is revealed during this test, you may take an additional action this turn.",
-        "traits": "Item. Relic. Blessed. Cursed.",
-        "slot": "Hand"
+        "name": "Глаз джинна",
+        "slot": "Рука",
+        "subname": "Сосуд добра и зла",
+        "text": "Исключительный.\n[reaction] Когда вы начинаете проверку навыка в свой ход, поверните «Глаз джинна»: В этой проверке базовое значение проверяемого навыка равно 5. Если в этой проверке вытянут жетон [bless], разверните «Глаз джинна». Если в этой проверке вытянут жетон [curse], в этот ход можете совершить 1 дополнительное действие.",
+        "traits": "Вещь. Редкая. Благословенная. Проклятая."
+    },
+    {
+        "code": "07226",
+        "name": "Армагеддон",
+        "slot": "Магический",
+        "text": "Многоразовый (3 заряда).\n[action] Потратьте 1 заряд: <b>Бой.</b> Эта атака использует [willpower] вместо [combat]. У вас +2 [willpower] и вы наносите +1 рану в этой атаке. За каждый вытянутый в этой атаке жетон [curse] вы можете нанести 1 рану врагу в вашей локации или положить 1 заряд на «Армагеддон».",
+        "traits": "Заклинание. Проклятое."
+    },
+    {
+        "code": "07227",
+        "name": "Око хаоса",
+        "slot": "Магический",
+        "text": "Многоразовое (3 заряда).\n[action] Потратьте 1 заряд: <b>Исследование.</b> Это исследование использует [willpower] вместо [intellect]. У вас +2 [willpower] в этой проверке. При успехе найдите в своей локации 1 дополнительную улику. За каждый вытянутый в этом исследовании жетон [curse] вы можете найти 1 улику в связанной локации или положить 1 заряд на «Око хаоса».",
+        "traits": "Заклинание. Проклятое."
     },
     {
         "code": "07228",
-        "name": "Shroud of Shadows",
-        "text": "Uses (3 charges).\n[action] Spend 1 charge: <b>Evade.</b> This evasion uses [willpower] instead of [agility]. You get +2 [willpower] for this test. If you succeed and the evaded enemy is non-[[Elite]], you may move that enemy to a connecting location. For each [curse] token revealed during this evasion attempt, you may move to a connecting location or place 1 charge on Shroud of Shadows.",
-        "traits": "Spell. Cursed.",
-        "slot": "Arcane"
+        "name": "Покров теней",
+        "slot": "Магический",
+        "text": "Многоразовый (3 заряда).\n[action] Потратьте 1 заряд: <b>Уход.</b> Эта попытка ухода использует [willpower] вместо [agility]. У вас +2 [willpower] в этой проверке. При успехе, если вы уходили от не [[элитного]] врага, можете переместить его в связанную локацию. За каждый вытянутый в этой попытке ухода жетон [curse] вы можете переместиться в связанную локацию или положить 1 заряд на «Покров теней».",
+        "traits": "Заклинание. Проклятое."
+    },
+    {
+        "code": "07229",
+        "name": "Дух человечности",
+        "slot": "Магический",
+        "text": "[fast] Поверните «Дух человечности» и получите 1 рану и 1 ужас: Добавьте в мешок хаоса 2 жетона [bless].\n[fast] Поверните «Дух человечности» и добавьте в мешок хаоса 2 жетона [curse]: Вылечите 1 рану и 1 ужас.",
+        "traits": "Ритуал. Благословенный. Проклятый."
+    },
+    {
+        "code": "07230",
+        "flavor": "Даже самые тугие узлы судьбы можно распутать на какое-то время.",
+        "name": "Гармония восстановлена",
+        "text": "Найдите в мешке хаоса X жетонов [curse] и верните их в резерв. X равен числу жетонов [bless] в мешке хаоса. Получите 1 ресурс за каждый удалённый таким образом жетон [curse].",
+        "traits": "Удача. Благословенная."
     }
 ]

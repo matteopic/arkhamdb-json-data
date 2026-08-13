@@ -33,7 +33,8 @@
         "skill_willpower": 1,
         "slot": "Ally",
         "subname": "Huntress of Bast",
-        "text": "You get +1 [willpower].\n[reaction] When 1 or more [bless] tokens would be removed from the chaos bag during a skill test: Seal them on Nephthys, instead.\n[free] Exhaust Nephthys: Either release 3 [bless] tokens sealed on her, or return 3 [bless] tokens sealed on her to the token pool to deal 2 damage to an enemy at your location.",
+        "tags": "se.",
+        "text": "You get +1 [willpower].\n[reaction] When 1 or more [bless] tokens would be removed from the chaos bag during a skill test: Seal them on Nephthys, instead.\n[fast] Exhaust Nephthys: Either release 3 [bless] tokens sealed on her, or return 3 [bless] tokens sealed on her to the token pool to deal 2 damage to an enemy at your location.",
         "traits": "Ally. Blessed.",
         "type_code": "asset",
         "xp": 4
@@ -66,7 +67,7 @@
         "quantity": 2,
         "skill_agility": 2,
         "skill_intellect": 2,
-        "text": "Uses (2 resources). Replenish these resources at the start of each round.\n[free] Spend 1 resource from your resource pool or from Hyperawareness: You get +1 [intellect] or +1 [agility] for this skill test.",
+        "text": "Uses (2 resources). Replenish these resources at the start of each round.\n[fast] Spend 1 resource from your resource pool or from Hyperawareness: You get +1 [intellect] or +1 [agility] for this skill test.",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 4
@@ -99,7 +100,7 @@
         "quantity": 2,
         "skill_agility": 2,
         "skill_combat": 2,
-        "text": "Uses (2 resources). Replenish these resources at the start of each round.\n[free] Spend 1 resource from your resource pool or from Hard Knocks: You get +1 [combat] or +1 [agility] for this skill test.",
+        "text": "Uses (2 resources). Replenish these resources at the start of each round.\n[fast] Spend 1 resource from your resource pool or from Hard Knocks: You get +1 [combat] or +1 [agility] for this skill test.",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 4
@@ -143,6 +144,7 @@
         "skill_combat": 1,
         "skill_willpower": 1,
         "slot": "Hand",
+        "tags": "se.",
         "text": "Exceptional. Seal (up to X [curse]).\n[action] Exhaust Flute of the Outer Gods and release 1 [curse] token sealed on it: Choose a non-[[Elite]] enemy at your location. Either move the chosen enemy to a connecting location, or deal its damage to any enemy at its location. This action does not provoke attacks of opportunity.",
         "traits": "Item. Instrument. Relic. Cursed.",
         "type_code": "asset",
@@ -159,7 +161,7 @@
         "position": 269,
         "quantity": 2,
         "skill_willpower": 2,
-        "text": "As an additional cost to play A Watchful Peace, search the chaos bag and/or cards in play for a total of 5 [bless] tokens and return them to the token pool.\nFast. Play when the \"draw encounter cards\" step of the mythos phase would begin. Skip this step of the mythos phase.",
+        "text": "As an additional cost to play A Watchful Peace, search the chaos bag and/or cards in play for a total of 5 [bless] tokens and return them to the token pool.\nFast. Play when the \"draw encounter cards\" step of the mythos phase would begin.\nSkip this step of the mythos phase.",
         "traits": "Spirit. Blessed.",
         "type_code": "event",
         "xp": 3
@@ -176,7 +178,7 @@
         "quantity": 2,
         "skill_agility": 2,
         "skill_willpower": 2,
-        "text": "Uses (2 resources). Replenish these resources at the start of each round.\n[free] Spend 1 resource from your resource pool or from Dig Deep: You get +1 [willpower] or +1 [agility] for this skill test.",
+        "text": "Uses (2 resources). Replenish these resources at the start of each round.\n[fast] Spend 1 resource from your resource pool or from Dig Deep: You get +1 [willpower] or +1 [agility] for this skill test.",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 4
@@ -194,6 +196,7 @@
         "quantity": 2,
         "skill_combat": 1,
         "skill_intellect": 1,
+        "tags": "se.",
         "text": "Fast. Seal (up to 3 [curse]). If there are no tokens sealed on Favor of the Moon, discard it.\n[reaction] When you would reveal a chaos token from the chaos bag, exhaust Favor of the Moon: Resolve a token sealed here instead, as if it were just revealed from the chaos bag. Then, gain 1 resource.",
         "traits": "Pact. Cursed.",
         "type_code": "asset",
@@ -212,6 +215,7 @@
         "quantity": 2,
         "skill_agility": 1,
         "skill_willpower": 1,
+        "tags": "se.",
         "text": "Fast. Seal (up to 3 [bless]). If there are no tokens sealed on Favor of the Sun, discard it.\n[reaction] When you would reveal a chaos token from the chaos bag, exhaust Favor of the Sun: Resolve a token sealed here instead, as if it were just revealed from the chaos bag.",
         "traits": "Pact. Blessed.",
         "type_code": "asset",
@@ -229,7 +233,7 @@
         "quantity": 2,
         "skill_wild": 1,
         "tags": "hd.hh.",
-        "text": "[reaction] When you draw a non-weakness treachery, take 1 damage and 1 horror: Cancel that card's revelation effect and place 1 resource on this card, as corruption. If this card has 3 or more corruption, remove it from the game.\n[fast] Draw the top card of the encounter deck: Either heal 1 damage and 1 horror, or remove 1 corruption from this card.",
+        "text": "[reaction] When you draw a non-weakness treachery, take 1 damage and 1 horror: Cancel that card's revelation effect and place 1 resource on this card, as corruption. If this card has 3 or more corruption, remove it from the game.\n[fast] Draw the top card of the encounter deck: Either heal 1 damage and 1 horror, or remove 1 corruption from this card.\n<b>Card design by the Impure at Arkham Nights 2019.</b>",
         "traits": "Ritual. Blessed. Cursed.",
         "type_code": "asset",
         "xp": 4

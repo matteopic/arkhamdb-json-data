@@ -1,0 +1,24 @@
+[
+  {
+    "code": "90081",
+    "name": "Padre Mateo",
+    "subname": "El sacerdote",
+    "traits": "Creyente. Protector.",
+    "text": "[fast] Durante tu turno: Sella una ficha [bless] en un investigador que esté en tu Lugar y que no tenga ninguna ficha [bless] sellada. Límite de una vez por ronda.\n[reaction] Cuando un investigador fuese a revelar una ficha de Caos: En vez de eso, resuelve la ficha [bless] sellada en él. Libera esa ficha.\nEfecto [elder_sign]: +1. Resuelve la capacidad [fast] del Padre Mateo, ignorando su límite.",
+    "back_text": "<b>Tamaño de mazo</b>: 30.\n<b>Opciones de creación de mazos</b>: Cartas Místico ([mystic]) de nivel 0-3, cartas [[Bendecido]] de nivel 0-5, cartas neutrales de nivel 0-5, hasta otras 5 cartas con “Sello” de nivel 0-5.\n<b>Requisitos de creación de mazos</b> (no cuentan para el tamaño de mazo): El códice de las eras, Serpientes de Yig, 1 Debilidad básica aleatoria.",
+    "back_flavor": "La vida de Mateo Castile no ha sido fácil desde que se hizo sacerdote. Las últimas décadas han sumido a México en la inestabilidad y el conflicto. Al padre Mateo le costó buscar el equilibrio entre su fe y las preocupaciones pragmáticas de predicar cuando la ley le decía que no debía hacerlo. Pero no fue eso lo que atacó la fe de Mateo en lo más profundo. Los cercanos asesinatos y secuestros no tenían motivación política como había sospechado. Una macabra y horrenda secta crece en mitad de la guerra que se está fraguando. Mateo se pregunta cómo puede permitir un dios compasivo y de amor que exista lo que vio esa noche."
+  },
+  {
+    "code": "90082",
+    "name": "El códice de las eras",
+    "subname": "finis omnium nunc est",
+    "traits": "Objeto. Reliquia. Tomo. Bendecido.",
+    "text": "Sólo para el mazo del Padre Mateo. Avanzada. Sello ([elder_sign] o hasta 3 [bless]).\nRecibes +1 a cada una de tus habilidades mientras haya una ficha sellada aquí.\n[reaction] Cuando un investigador que esté en tu Lugar fuese a revelar una ficha de Caos de la bolsa de caos: En vez de eso, ese investigador resuelve una ficha sellada aquí y luego la libera. Límite de una vez por prueba."
+  },
+  {
+    "code": "90083",
+    "name": "Serpientes de Yig",
+    "traits": "Humanoide. Monstruo. Serpiente.",
+    "text": "Avanzada. <b>Presa</b> - Sólo el Padre Mateo.\nCazador.\n<b>Revelación</b> - Busca la ficha [elder_sign] y todas las fichas [bless] en la bolsa de caos y en todas las zonas de juego y séllalas en las Serpientes de Yig."
+  }
+]

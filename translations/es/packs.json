@@ -1,5 +1,9 @@
 [
     {
+        "code": "aof",
+        "name": "Aura de fe"
+    },
+    {
         "code": "aon",
         "name": "Todo o nada"
     },
@@ -14,6 +18,10 @@
     {
         "code": "bbt",
         "name": "Ante el trono negro"
+    },
+    {
+        "code": "blbe",
+        "name": "La masa que devoraba todo ¡LO DEMÁS!"
     },
     {
         "code": "blob",
@@ -42,6 +50,10 @@
     {
         "code": "core",
         "name": "Caja básica"
+    },
+    {
+        "code": "core_2026",
+        "name": "Caja básica (2026)"
     },
     {
         "code": "cotr",
@@ -84,12 +96,28 @@
         "name": "Por el bien común"
     },
     {
+        "code": "fhvc",
+        "name": "La fiesta del Valle de la Cicuta Expansión de campaña"
+    },
+    {
+        "code": "fhvp",
+        "name": "La fiesta del Valle de la Cicuta Expansión de investigadores"
+    },
+    {
+        "code": "fof",
+        "name": "Fortuna e insensatez"
+    },
+    {
         "code": "guardians",
         "name": "Guardianes del abismo"
     },
     {
         "code": "har",
         "name": "Harvey Walters"
+    },
+    {
+        "code": "hfa",
+        "name": "Hunting for Answers"
     },
     {
         "code": "hhg",
@@ -144,12 +172,24 @@
         "name": "Los laberintos de la demencia"
     },
     {
+        "code": "ltr",
+        "name": "Reposo eterno"
+    },
+    {
         "code": "mtt",
         "name": "Maquinaciones por el tiempo"
     },
     {
         "code": "nat",
         "name": "Nathaniel Cho"
+    },
+    {
+        "code": "otr",
+        "name": "De nuevo en la carretera"
+    },
+    {
+        "code": "pap",
+        "name": "Pistols and Pearls"
     },
     {
         "code": "pnr",
@@ -164,12 +204,20 @@
         "name": "El camino a Carcosa"
     },
     {
+        "code": "ptr",
+        "name": "Path of the Righteous"
+    },
+    {
         "code": "rcore",
         "name": "Caja básica. Edición revisada"
     },
     {
         "code": "rod",
         "name": "Lee o muere"
+    },
+    {
+        "code": "rop",
+        "name": "Relics of the Past"
     },
     {
         "code": "rtdwl",
@@ -220,6 +268,14 @@
         "name": "El círculo roto"
     },
     {
+        "code": "tdcc",
+        "name": "La ciudad sumergida Expansión de campaña"
+    },
+    {
+        "code": "tdcp",
+        "name": "La ciudad sumergida Expansión de investigadores"
+    },
+    {
         "code": "tde",
         "name": "Los devoradores de sueños"
     },
@@ -252,6 +308,10 @@
         "name": "La conspiración de Innsmouth"
     },
     {
+        "code": "tmg",
+        "name": "La gala del ecuador del invierno"
+    },
+    {
         "code": "tmm",
         "name": "El museo Miskatonic"
     },
@@ -274,14 +334,6 @@
     {
         "code": "tskp",
         "name": "Las llaves escarlata Expansión de investigadores"
-    },
-    {
-      "code": "fhvc",
-      "name": "La fiesta del Valle de la Cicuta Expansión de campaña"
-    },
-    {
-        "code": "fhvp",
-        "name": "La fiesta del Valle de la Cicuta Expansión de investigadores"
     },
     {
         "code": "tsn",
@@ -322,5 +374,81 @@
     {
         "code": "wos",
         "name": "La paga del pecado"
+    },
+    {
+        "code": "core_2026",
+        "name": "Caja básica 2026"
+    },
+    {
+        "code": "dwlp",
+        "name": "El legado de Dunwich Expansión de investigadores"
+    },
+    {
+        "code": "dwlc",
+        "name": "El legado de Dunwich Expansión de campaña"
+    },
+    {
+        "code": "ptcp",
+        "name": "El camino a Carcosa Expansión de investigadores"
+    },
+    {
+        "code": "ptcc",
+        "name": "El camino a Carcosa Expansión de campaña"
+    },
+    {
+        "code": "tfap",
+        "name": "La era olvidada Expansión de investigadores"
+    },
+    {
+        "code": "tfac",
+        "name": "La era olvidada Expansión de campaña"
+    },
+    {
+        "code": "tcup",
+        "name": "El círculo roto Expansión de investigadores"
+    },
+    {
+        "code": "tcuc",
+        "name": "El círculo roto Expansión de campaña"
+    },
+    {
+        "code": "tdep",
+        "name": "Los devoradores de sueños Expansión de investigadores"
+    },
+    {
+        "code": "tdec",
+        "name": "Los devoradores de sueños Expansión de campaña"
+    },
+    {
+        "code": "ticp",
+        "name": "La conspiración de Innsmouth Expansión de investigadores"
+    },
+    {
+        "code": "ticc",
+        "name": "La conspiración de Innsmouth Expansión de campaña"
+    },
+    {
+        "code": "film_fatale",
+        "name": "Rodaje letal"
+    },
+    {
+        "code": "tom",
+        "name": "Tommy Muldoon"
+    },
+    {
+        "code": "car",
+        "name": "Carolyn Fern"
+    },
+    {
+        "code": "and",
+        "name": "André Patel"
+    },
+    {
+        "code": "mar",
+        "name": "Marie Lambeau"
+    },
+    {
+        "code": "mig",
+        "name": "Miguel de la Cruz"
     }
 ]

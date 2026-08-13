@@ -75,7 +75,7 @@
         "skill_intellect": 1,
         "slot": "Ally",
         "subname": "Lookin' Out for #1",
-        "text": "[free] Spend 1 resource: Choose an [[Item]] asset from your hand and play it (paying its cost).\n[free] Discard an [[Item]] asset from play: Gain 2 resources.",
+        "text": "[fast] Spend 1 resource: Choose an [[Item]] asset from your hand and play it (paying its cost).\n[fast] Discard an [[Item]] asset from play: Gain 2 resources.",
         "traits": "Ally. Criminal.",
         "type_code": "asset",
         "xp": 3
@@ -158,6 +158,7 @@
         "bonded_to": "Nightmare Bauble",
         "bonded_count": 3,
         "code": "06331",
+        "deck_limit": 0,
         "faction_code": "neutral",
         "illustrator": "McLean Kendree",
         "name": "Dream Parasite",

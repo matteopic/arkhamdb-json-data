@@ -13,7 +13,7 @@
     },
     {
         "code": "fhv",
-        "name": "The Feast of Hemlock Vale"
+        "name": "햄록 베일의 축일"
     },
     {
         "code": "investigator",
@@ -42,6 +42,10 @@
     {
         "code": "tcu",
         "name": "끝맺지 못한 의식"
+    },
+    {
+        "code": "tdc",
+        "name": "The Drowned City"
     },
     {
         "code": "tde",

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "90049",
+    "name": "Jim Culver",
+    "subname": "El músico",
+    "traits": "Artista. Maldito.",
+    "text": "[reaction] Después de que reveles 1 o más fichas [skull] o [curse] durante una prueba de habilidad que estés realizando: Repón 1 carga de un Apoyo que controles. Límite de una vez por ronda.\nEfecto [elder_sign]: +2. En vez de eso, puedes considerar esta ficha como si fuera una ficha [skull] o [curse].",
+    "flavor": "\"Sé que puedo hacer bailar a los muertos.\"",
+    "back_text": "<b>Tamaño de mazo</b>: 30.\n<b>Opciones de creación de mazos</b>: Cartas Místico ([mystic]) de nivel 0-3, cartas [[Hechizo]] y [[Maldito]] de nivel 0-4, cartas neutrales de nivel 0-5, hasta otras 5 cartas de Superviviente ([survivor]) de nivel 0.\n<b>Requisitos de creación de mazos</b> (no cuentan para el tamaño de mazo): Trompeta de Jim, Rapsodia final, El más allá, 1 Debilidad básica aleatoria.\n<b>Tamaño del mazo de espíritus</b>: 10.\n<b>Opciones de creación del mazo de espíritus</b>: 9 Apoyos [[Aliado]] distintos de cualquier clase de nivel 0-2, Sombra vengativa.\n<b>Instrucciones del mazo de espíritus</b>: Baraja el \"mazo de espíritus\" por separado de tu mazo y colócalo boca abajo junto al Apoyo El más allá. Este mazo se puede mejorar por separado usando tu experiencia sin gastar.",
+    "back_flavor": "El jazz no le ha traído más que problemas a Jim desde el día que cogió la trompeta de su padre. Pero a los muertos les encanta que toque, así que Jim no tiene la menor intención de dejar de hacerlo."
+  },
+  {
+    "code": "90050",
+    "name": "La trompeta de Jim",
+    "subname": "Los muertos hablan",
+    "traits": "Objeto. Instrumento. Reliquia.",
+    "text": "Sólo para el mazo de Jim Culver. Avanzada.\n[reaction] Cuando sea revelada una ficha [skull] o [curse] durante una prueba de habilidad que estés realizando, agota La trompeta de Jim: Cura 1 punto de horror de cada investigador y Apoyo [[Aliado]] que esté en tu Lugar o en un Lugar conectado."
+  },
+  {
+    "code": "90051",
+    "name": "Rapsodia final",
+    "traits": "Fin de los tiempos.",
+    "text": "Avanzada.\n<b>Revelación</b> - Revela 5 fichas de Caos de la bolsa de caos. Por cada ficha de símbolo que no sea [elder_sign] o [bless] revelada, recibe 1 punto de daño y 1 punto de horror.",
+    "flavor": "Cuando los muertos empiezan a hablar sobre lo que les asusta, es el momento de escuchar."
+  },
+  {
+    "code": "90052",
+    "name": "El más allá",
+    "subname": "Inframundo lóbrego",
+    "traits": "Santuario. Espectral.",
+    "text": "Sólo para el mazo de Jim Culver. Permanente.\nCada espíritu vinculado pierde todos los rasgos impresos y obtiene el rasgo [[Geist]]. Cuando se fuese a colocar daño/horror en un espíritu vinculado, en vez de eso debe colocarse en Jim Culver.\n<b>Obligado</b> - Cuando comience tu turno: Vincula la primera carta del mazo de espíritus a El más allá, como espíritu. Si hay 4 o más espíritus vinculados, da la vuelta a esta carta y resuelve su texto."
+  },
+  {
+    "code": "90052b",
+    "name": "El más allá",
+    "text": "<b>Obligado</b> - De uno en uno, elige cada espíritu que no sea Debilidad vinculado a El más allá y revela una ficha aleatoria de la bolsa de caos. Si es…\n-…una ficha [elder_sign]: Puedes curarte 1 punto de horror o bien vincular la primera carta del mazo de espíritus a El más allá, como espíritu <i>(no reveles fichas para el espíritu que vincules después de resolver este efecto)</i>.\n-…una ficha [auto_fail]: Descarta este espíritu. Recibe 1 punto de daño/horror directo.\n-…una ficha [skull]: Descarta este espíritu. Cúrate 1 punto de horror.\n-…una ficha [cultist], [elder_thing], [tablet] o [curse]: Debes descartar este espíritu o bien recibir 1 punto de daño directo.\n-…cualquier otra ficha: Descarta este espíritu.\nVuelve a dar la vuelta a esta carta para mostrar su lado de Apoyo.\n<hr><b>Recordatorio:</b> <i>Los espíritus vinculados a El más allá están en juego, pero sólo conservan sus nombres y cuadros de texto de reglas. Los espíritus no ocupan espacios y no tienen valores de salud o cordura. Cuando se vincule un espíritu único a El más allá, se descarta cualquier otro Apoyo que comparta su nombre y esté en juego. Los espíritus siempre se descartan a la parte</i> <b>inferior</b> <i>del mazo de espíritus.</i>"
+  },
+  {
+    "code": "90053",
+    "name": "Sombra vengativa",
+    "traits": "Monstruo. Geist.",
+    "text": "Cazador. <b>Presa</b> - Sólo Jim Culver.\nPuedes combatir o evitar a este Enemigo mientras esté vinculado a El más allá <i>(como si estuviera enfrentado a ti)</i>. Si tienes éxito, descártalo. Si fracasas, hazlo aparecer enfrentado a ti.\n<b>Obligado</b> - Cuando vincules un espíritu a El más allá mediante su efecto <b>Obligado</b>: La Sombra vengativa te ataca <i>(incluso si no está en tu Lugar)</i>."
+  }
+]

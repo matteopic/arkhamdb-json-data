@@ -113,7 +113,7 @@
         "type_code": "act"
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 0,
@@ -134,7 +134,7 @@
         "type_code": "location"
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 1,
@@ -154,7 +154,7 @@
         "type_code": "location"
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 2,
@@ -174,7 +174,7 @@
         "type_code": "location"
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 2,
@@ -194,7 +194,7 @@
         "type_code": "location"
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 2,
@@ -215,7 +215,7 @@
         "victory": 1
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 3,
@@ -236,7 +236,7 @@
         "victory": 1
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 1,
@@ -251,13 +251,13 @@
         "position": 206,
         "quantity": 1,
         "shroud": 4,
-        "text": "Road 2.\n[free] Investigators at this location spend 1 [per_investigator] clues, as a group: Look at the revealed side of any location ahead of this one.",
+        "text": "Road 2.\n[fast] Investigators at this location spend 1 [per_investigator] clues, as a group: Look at the revealed side of any location ahead of this one.",
         "traits": "Road.",
         "type_code": "location",
         "victory": 1
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 1,
@@ -272,13 +272,13 @@
         "position": 206,
         "quantity": 1,
         "shroud": 5,
-        "text": "Road 2.\n[free] Investigators at this location spend 1 [per_investigator] clues, as a group: Look at the revealed side of any location ahead of this one.",
+        "text": "Road 2.\n[fast] Investigators at this location spend 1 [per_investigator] clues, as a group: Look at the revealed side of any location ahead of this one.",
         "traits": "Road.",
         "type_code": "location",
         "victory": 1
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 2,
@@ -293,13 +293,13 @@
         "position": 207,
         "quantity": 1,
         "shroud": 3,
-        "text": "Road 3.\n[free] Investigators at this location spend 1 [per_investigator] clues, as a group: Look at the revealed side of any location ahead of this one.",
+        "text": "Road 3.\n[fast] Investigators at this location spend 1 [per_investigator] clues, as a group: Look at the revealed side of any location ahead of this one.",
         "traits": "Road.",
         "type_code": "location",
         "victory": 1
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 2,
@@ -314,13 +314,13 @@
         "position": 207,
         "quantity": 1,
         "shroud": 4,
-        "text": "Road 3.\n[free] Investigators at this location spend 1 [per_investigator] clues, as a group: Look at the revealed side of any location ahead of this one.",
+        "text": "Road 3.\n[fast] Investigators at this location spend 1 [per_investigator] clues, as a group: Look at the revealed side of any location ahead of this one.",
         "traits": "Road.",
         "type_code": "location",
         "victory": 1
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 1,
@@ -340,7 +340,7 @@
         "type_code": "location"
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 2,
@@ -360,7 +360,7 @@
         "type_code": "location"
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 2,
@@ -380,7 +380,7 @@
         "type_code": "location"
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 2,
@@ -401,7 +401,7 @@
         "victory": 1
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 1,
@@ -422,7 +422,7 @@
         "victory": 1
     },
     {
-        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\" – H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"On the left the creek-threaded countryside was nearer, the narrow road to Ipswich gleaming white in the moonlight.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Jokubas Uogintas",
         "back_name": "Old Innsmouth Road",
         "clues": 0,
@@ -479,7 +479,6 @@
         "back_link": "07212b",
         "code": "07212a",
         "cost": null,
-        "double_sided": true,
         "encounter_code": "horror_in_high_gear",
         "encounter_position": 28,
         "faction_code": "neutral",

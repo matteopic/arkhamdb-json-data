@@ -16,12 +16,20 @@
         "name": "Ennemi"
     },
     {
+        "code": "enemy_location",
+        "name": "Lieu-Ennemi"
+    },
+    {
         "code": "event",
         "name": "Événement"
     },
     {
         "code": "investigator",
         "name": "Investigateur"
+    },
+    {
+        "code": "key",
+        "name": "Clef"
     },
     {
         "code": "location",

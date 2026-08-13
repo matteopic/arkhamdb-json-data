@@ -177,7 +177,7 @@
         "type_code": "location"
     },
     {
-        "back_flavor": "\"Stupendous and unheard-of splendours await me below, and I shall seek them soon.\" - H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"Stupendous and unheard-of splendours await me below, and I shall seek them soon.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_text": "Gateway to Y'ha-nthlei enters play partially flooded <i>(even while it is unrevealed)</i>.",
         "clues": 0,
         "code": "07320",
@@ -196,7 +196,7 @@
         "type_code": "location"
     },
     {
-        "back_flavor": "\"We shall swim out to that brooding reef in the sea and dive down through black abysses to Cyclopean and many-columned Y'ha-nthlei...\" - H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"We shall swim out to that brooding reef in the sea and dive down through black abysses to Cyclopean and many-columned Y'ha-nthlei...\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Marc Simonetti",
         "back_name": "Y'ha-nthlei",
         "back_text": "Y'ha-nthlei enters play partially flooded <i>(even while it is unrevealed)</i>.",
@@ -217,7 +217,7 @@
         "type_code": "location"
     },
     {
-        "back_flavor": "\"We shall swim out to that brooding reef in the sea and dive down through black abysses to Cyclopean and many-columned Y'ha-nthlei...\" - H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"We shall swim out to that brooding reef in the sea and dive down through black abysses to Cyclopean and many-columned Y'ha-nthlei...\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Marc Simonetti",
         "back_name": "Y'ha-nthlei",
         "back_text": "Y'ha-nthlei enters play partially flooded <i>(even while it is unrevealed)</i>.",
@@ -238,7 +238,7 @@
         "type_code": "location"
     },
     {
-        "back_flavor": "\"We shall swim out to that brooding reef in the sea and dive down through black abysses to Cyclopean and many-columned Y'ha-nthlei...\" - H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"We shall swim out to that brooding reef in the sea and dive down through black abysses to Cyclopean and many-columned Y'ha-nthlei...\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Marc Simonetti",
         "back_name": "Y'ha-nthlei",
         "back_text": "Y'ha-nthlei enters play partially flooded <i>(even while it is unrevealed)</i>.",
@@ -259,7 +259,7 @@
         "type_code": "location"
     },
     {
-        "back_flavor": "\"... in that lair of the Deep Ones we shall dwell amidst wonder and glory for ever.\" - H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"... in that lair of the Deep Ones we shall dwell amidst wonder and glory for ever.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Dimitri Bielak",
         "back_name": "Y'ha-nthlei Sanctum",
         "back_text": "Y'ha-nthlei Sanctum enters play fully flooded <i>(even while it is unrevealed)</i>.",
@@ -280,7 +280,7 @@
         "type_code": "location"
     },
     {
-        "back_flavor": "\"... in that lair of the Deep Ones we shall dwell amidst wonder and glory for ever.\" - H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"... in that lair of the Deep Ones we shall dwell amidst wonder and glory for ever.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Dimitri Bielak",
         "back_name": "Y'ha-nthlei Sanctum",
         "back_text": "Y'ha-nthlei Sanctum enters play fully flooded <i>(even while it is unrevealed)</i>.",
@@ -301,7 +301,7 @@
         "type_code": "location"
     },
     {
-        "back_flavor": "\"... in that lair of the Deep Ones we shall dwell amidst wonder and glory for ever.\" - H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"... in that lair of the Deep Ones we shall dwell amidst wonder and glory for ever.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Dimitri Bielak",
         "back_name": "Y'ha-nthlei Sanctum",
         "back_text": "Y'ha-nthlei Sanctum enters play fully flooded <i>(even while it is unrevealed)</i>.",
@@ -322,7 +322,7 @@
         "type_code": "location"
     },
     {
-        "back_flavor": "\"... in that lair of the Deep Ones we shall dwell amidst wonder and glory for ever.\" - H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
+        "back_flavor": "\"... in that lair of the Deep Ones we shall dwell amidst wonder and glory for ever.\"\n- H. P. Lovecraft, <i>The Shadow over Innsmouth</i>",
         "back_illustrator": "Dimitri Bielak",
         "back_name": "Y'ha-nthlei Sanctum",
         "back_text": "Y'ha-nthlei Sanctum enters play fully flooded <i>(even while it is unrevealed)</i>.",
@@ -344,6 +344,7 @@
     },
     {
         "back_flavor": "As you descend the familiar steps, something tugs at your memories. You've been here before, haven't you?",
+        "back_subname": "Sanctuary of Father Dagon",
         "clues": 3,
         "code": "07328",
         "double_sided": true,
@@ -363,6 +364,7 @@
     },
     {
         "back_flavor": "Amidst the sound of cascading waterfalls, the deep rumbling of something enormous stirring emanates from below. Each of the thing's breaths resounds throughout the city, shaking the walls, filling your heart with fear, and yet, calling to you.",
+        "back_subname": "High Temple of Mother Hydra",
         "clues": 3,
         "code": "07329",
         "double_sided": true,
@@ -575,7 +577,6 @@
         "pack_code": "itm",
         "position": 338,
         "quantity": 4,
-        "sanity": null,
         "slot": "Body",
         "text": "You ignore the <b>Forced</b> ability on the current agenda.\n<b>Forced</b> - When any amount of damage would be placed on you: Place 1 of that damage on Diving Suit.\n<b>Forced</b> - When Diving Suit leaves play: Remove it from the game.",
         "traits": "Item. Armor.",

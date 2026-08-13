@@ -4,6 +4,10 @@
         "name": "Podstawka"
     },
     {
+        "code": "core_ch2",
+        "name": "Podstawka 2026"
+    },
+    {
         "code": "dwl",
         "name": "Dziedzictwo Dunwich"
     },
@@ -18,6 +22,10 @@
     {
         "code": "investigator",
         "name": "Talie początkowe badaczy"
+    },
+    {
+        "code": "investigator_decks_ch2",
+        "name": "Talie badaczy"
     },
     {
         "code": "parallel",
@@ -42,6 +50,10 @@
     {
         "code": "tcu",
         "name": "Przerwany krąg"
+    },
+    {
+        "code": "tdc",
+        "name": "Zatopione Miasto"
     },
     {
         "code": "tde",

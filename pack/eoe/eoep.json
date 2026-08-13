@@ -76,7 +76,7 @@
         "type_code": "enemy"
     },
     {
-        "back_flavor": "Nobody believes him, and why should they? How could six stars vanish from sight all at once, never to reappear? Astronomer and Miskatonic University professor Norman Withers had all but given up on regaining his colleagues' esteem when a protege of the renowned Albert Einstein comes to speak on campus. The visiting physicist, with unsettling theories about the curvature of space-time, may hold the key to helping Norman explain the phenomenon of the vanishing stars...",
+        "back_flavor": "The stars hold many secrets, and Norman was never one to ignore a mystery. So when six stars vanished from the sky, he simply couldn't let it go - not even when his colleagues told him he was just imaginging things. It took him years, and the near-death of his career, but he eventually found his answers in an ancient tome. It described the stars, and the sequence in which they would vanish, down to the very date and time. It was a sign, the book said, of the end of everything. It was the harbinger of a great beast that would tear asunder all that man had wrought. Norman isn't sure what he can do to stop the beast from destroying the world, but if the stars hold the answer, then he will find it.",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0, Mystic cards ([mystic]) level 1-5, Neutral cards level 0-5, up to 5 other Mystic cards ([mystic]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Livre d'Eibon, The Harbinger, 1 random basic weakness.",
         "code": "08004",
         "deck_limit": 1,
@@ -267,6 +267,7 @@
         "quantity": 1,
         "restrictions": "investigator:08010",
         "subname": "Alignment of Spirit",
+        "tags": "hd.hh.",
         "text": "Lily Chen deck only. Permanent.\nYou get +1 [willpower].\n[action]: Take 1 direct damage to heal 3 horror, or take 1 direct horror to heal 3 damage. Flip this asset over.",
         "traits": "Unbroken.",
         "type_code": "asset"
@@ -454,7 +455,7 @@
         "restrictions": "investigator:08016",
         "skill_intellect": 2,
         "skill_wild": 1,
-        "text": "Bob Jenkins deck only.\nReduce the cost of each [[Item]] asset you play by 1.\n[reaction]: When you play an [[Item]] asset: Play it under the control of any investigator at your location.",
+        "text": "Bob Jenkins deck only.\nReduce the cost of each [[Item]] asset you play by 1.\n[reaction] When you play an [[Item]] asset: Play it under the control of any investigator at your location.",
         "traits": "Talent.",
         "type_code": "asset"
     },
@@ -1019,7 +1020,7 @@
         "position": 49,
         "quantity": 2,
         "skill_willpower": 2,
-        "text": "Fast. Play when you draw a non-weakness treachery.\nCancel that card's revelation effect and draw the top card of the encounter deck.\n[reaction] When you play Counterespionage, increase its cost by 2. Change \"the encounter deck\" to \"your deck\".\n[reaction] When you play Counterespionage, increase its cost by 2: Change \"you\" to \"any investigator\".",
+        "text": "Fast. Play when you draw a non-weakness treachery.\nCancel that card's revelation effect and draw the top card of the encounter deck.\n[reaction] When you play Counterespionage, increase its cost by 2: Change \"the encounter deck\" to \"your deck\".\n[reaction] When you play Counterespionage, increase its cost by 2: Change \"you\" to \"any investigator\".",
         "traits": "Favor. Service.",
         "type_code": "event",
         "xp": 1
@@ -1328,7 +1329,7 @@
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "mystic",
-        "illustrator": "Jesse Mead",
+        "illustrator": "Jessie Calderon",
         "name": "Astronomical Atlas",
         "pack_code": "eoep",
         "position": 67,
@@ -1699,6 +1700,7 @@
         "quantity": 2,
         "skill_agility": 1,
         "skill_combat": 1,
+        "tags": "fa.",
         "text": "During the next fight action you perform this turn using a [[Ranged]] or [[Firearm]] asset, treat each [skull], [cultist], [tablet], [elder_thing], or [auto_fail] token you reveal as a \"0\" token. This action does not provoke attacks of opportunity.",
         "traits": "Tactic.",
         "type_code": "event",
@@ -1736,6 +1738,7 @@
         "skill_agility": 2,
         "skill_combat": 1,
         "slot": "Body",
+        "tags": "fa.",
         "text": "[fast]: Choose a [[Firearm]] asset taking up only 1 hand slot in your play area. Attach it to Quickdraw Holster, or switch it with the attached asset. The attached asset takes up no hand slots. (Limit 1 attached asset.)\n[fast] Exhaust Quickdraw Holster: Perform a fight action on the attached asset without paying its [action] cost.",
         "traits": "Item. Tool. Illicit.",
         "type_code": "asset",
@@ -2374,6 +2377,7 @@
         "position": 122,
         "quantity": 2,
         "skill_combat": 2,
+        "tags": "fa.",
         "text": "Uses (2 resources). Replenish these resources at the start of each round.\nResources on Bruiser may be spent to pay for [[Armor]], [[Firearm]], or [[Melee]] cards.\n[fast] During a skill test on a [[Armor]], [[Firearm]], or [[Melee]] card, spend 1 resource from Bruiser: You get +1 skill value for this test.",
         "traits": "Talent.",
         "type_code": "asset",
@@ -2555,6 +2559,7 @@
         "position": 133,
         "quantity": 1,
         "subtype_code": "basicweakness",
+        "tags": "pa.",
         "text": "<b>Revelation</b> - Put Stupor into play in your threat area.\nStupor can be healed as if it were a single point of horror on you <i>(if it is healed, discard it)</i>.\n<b>Forced</b> - After you take a parley, draw, or investigate action: You cannot take any of those types of actions for the remainder of the turn.",
         "traits": "Madness.",
         "type_code": "treachery"

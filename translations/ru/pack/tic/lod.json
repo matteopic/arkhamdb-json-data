@@ -1,35 +1,85 @@
 [
     {
+        "code": "07261",
+        "name": "Колдовское оружие",
+        "text": "Прикрепите к активу-[[оружию]] под контролем сыщика в вашей локации. Не более 1 такой карты на актив.\nПрикреплённый актив считается [[редким]] и дополнительно занимает 1 магический слот.\n[reaction] Когда вы cовершаете действие «Бой» с прикреплённого актива, поверните «Колдовское оружие»: Добавьте [willpower] владельца «Колдовского оружия» к вашей [combat] в этой атаке. Эта атака наносит +1 рану.",
+        "traits": "Заклинание. Улучшение."
+    },
+    {
         "code": "07262",
-        "name": "Nephthys",
-        "subname": "Huntress of Bast",
-        "text": "You get +1 [willpower].\n[reaction] When 1 or more [bless] tokens would be removed from the chaos bag during a skill test: Seal them on Nephthys, instead.\n[free] Exhaust Nephthys: Either release 3 [bless] tokens sealed on her, or return 3 [bless] tokens sealed on her to the token pool to deal 2 damage to an enemy at your location.",
-        "traits": "Ally. Blessed.",
-        "slot": "Ally"
+        "name": "Нефтида",
+        "slot": "Союзник",
+        "subname": "Охотница Бастет",
+        "text": "У вас +1 [willpower].\n[reaction] Когда в проверке навыка из мешка хаоса должен быть удалён хотя бы 1 жетон [bless]: Вместо этого запечатайте все те жетоны [bless] на «Нефтиде».\n[free] Поверните эту карту: Либо освободите 3 запечатанных на ней жетона [bless], либо верните 3 запечатанных на ней жетона [bless] в резерв, чтобы нанести 2 раны врагу в вашей локации.",
+        "traits": "Союзник. Благословенная."
     },
     {
         "code": "07263",
-        "name": "The Stygian Eye",
-        "text": "Fast. Play only during your turn.\nReduce the cost to play The Stygian Eye by 1 for each [curse] token in the chaos bag.\nUntil the end of the round, you get +3 to each of your skills.",
-        "traits": "Insight. Cursed."
+        "name": "Стигийское око",
+        "text": "Быстрое. Играйте только в свой ход.\nСнизьте цену розыгрыша «Стигийского ока» на 1 за каждый жетон [curse] в мешке хаоса.\nДо конца раунда у вас +3 к каждому навыку.",
+        "traits": "Интуиция. Проклятая."
     },
     {
         "code": "07264",
-        "name": "Hyperawareness",
-        "text": "Uses (2 resources). Replenish these resources at the start of each round.\n[free] Spend 1 resource from your resource pool or from Hyperawareness: You get +1 [intellect] or +1 [agility] for this skill test.",
-        "traits": "Talent."
+        "name": "Обострённое внимание",
+        "text": "Многоразовое (2 ресурса). В начале каждого раунда восполняйте эти ресурсы.\n[free] Потратьте 1 ресурс из своего пула или с «Обострённого внимания»: У вас +1 [intellect] или +1 [agility] в этой проверке.",
+        "traits": "Талант."
+    },
+    {
+        "code": "07265",
+        "name": "Гейс",
+        "text": "Исключительный.\nУ вас +1 [willpower], +1 [intellect], +1 [combat] и +1 [agility].\n<b>Обязательно</b> — После того как «Гейс» вошёл в игру: Дайте клятву в следующей форме — «В каждый свой ход клянусь не (брать/играть/добавлять к проверкам) никаких карт». Если вы нарушаете данную клятву и «Гейс» в игре, сбросьте «Гейс» и добавьте в мешок хаоса 10 жетонов [curse].",
+        "traits": "Сделка."
+    },
+    {
+        "code": "07266",
+        "name": "Школа улиц",
+        "text": "Многоразовое (2 ресурса). В начале каждого раунда восполняйте эти ресурсы.\n[free] Потратьте 1 ресурс из своего пула или со «Школы улиц»: У вас +1 [combat] или +1 [agility] в этой проверке.",
+        "traits": "Талант."
+    },
+    {
+        "code": "07267",
+        "name": "Икьях",
+        "slot": "Союзник",
+        "subname": "Избранница Совета",
+        "text": "У вас +1 [willpower] и +1 [intellect]. У вас -1 [willpower] и -1 [intellect] за каждую слабость под «Икьях».\n[reaction] Когда сыщик в вашей локации взял базовую слабость, поверните «Икьях»: Отмените эффекты той слабости и положите её лицом вниз под «Икьях». Держатель той слабости должен взять её, когда «Икьях» покидает игру.\n<b>Карта создана The Council на Arkham Nights 2018.</b>",
+        "traits": "Союзник. Чародей."
     },
     {
         "code": "07268",
-        "name": "Flute of the Outer Gods",
-        "text": "Exceptional. Seal (up to X [curse]).\n[action] Exhaust Flute of the Outer Gods and release 1 [curse] token sealed on it: Choose a non-[[Elite]] enemy at your location. Either move the chosen enemy to a connecting location, or deal its damage to any enemy at its location. This action does not provoke attacks of opportunity.",
-        "traits": "Item. Instrument. Relic. Cursed.",
-        "slot": "Hand"
+        "name": "Флейта Внешних богов",
+        "slot": "Рука",
+        "text": "Исключительная. Печать (до X [curse]).\n[action] Поверните эту карту и освободите 1 запечатанный на ней жетон [curse]: Выберите не [[элитного]] врага в вашей локации и либо переместите его в связанную локацию, либо нанесите любому врагу в его локации столько ран, каково значение ран выбранного врага. Это действие не вызывает внеочередных атак.",
+        "traits": "Вещь. Музыкальная. Редкая. Проклятая."
+    },
+    {
+        "code": "07269",
+        "name": "Бдительное спокойствие",
+        "text": "В качестве дополнительной цены розыгрыша «Бдительного спокойствия» найдите в мешке хаоса и/или на картах в игре суммарно 5 жетонов [bless] и верните их в резерв.\nБыстрое. Играйте, когда должен начаться шаг взятия карт контактов в фазе Мифа.\nПропустите этот шаг в этой фазе Мифа.",
+        "traits": "Дух. Благословенный."
+    },
+    {
+        "code": "07270",
+        "name": "Упорство",
+        "text": "Многоразовое (2 ресурса). В начале каждого раунда восполняйте эти ресурсы.\n[free] Потратьте 1 ресурс из своего пула или с «Упорства»: У вас +1 [willpower] или +1 [agility] в этой проверке.",
+        "traits": "Талант."
     },
     {
         "code": "07271",
-        "name": "Favor of the Moon",
-        "text": "Fast. Seal (up to 3 [curse]). If there are no tokens sealed on Favor of the Moon, discard it.\n[reaction] When you would reveal a chaos token from the chaos bag, exhaust Favor of the Moon: Resolve a token sealed here instead, as if it were just revealed from the chaos bag. Then, gain 1 resource.",
-        "traits": "Pact. Cursed"
+        "name": "Благосклонность Луны",
+        "text": "Быстрая. Печать (до 3 [curse]). Если на этой карте не запечатано ни одного жетона, сбросьте её.\n[reaction] Когда вы должны вытянуть жетон из мешка хаоса, поверните эту карту: Вместо этого разыграйте запечатанный здесь жетон, как будто только что достали его из мешка хаоса. Затем получите 1 ресурс.",
+        "traits": "Сделка. Проклятая."
+    },
+    {
+        "code": "07272",
+        "name": "Благосклонность Солнца",
+        "text": "Быстрая. Печать (до 3 [bless]). Если на этой карте не запечатано ни одного жетона, сбросьте её.\n[reaction] Когда вы должны вытянуть жетон из мешка хаоса, поверните эту карту: Вместо этого разыграйте запечатанный здесь жетон, как будто только что достали его из мешка хаоса.",
+        "traits": "Сделка. Благословенная."
+    },
+    {
+        "code": "07273",
+        "name": "Очищающий порок",
+        "text": "[reaction] Когда берёте напасть (но не слабость), получите 1 рану и 1 ужас: Отмените эффект раскрытия той карты и положите на эту карту 1 ресурс как порчу. Если на этой карте хотя бы 3 порчи, удалите эту карту из игры.\n[fast] Возьмите верхнюю карту колоды контактов: Либо вылечите 1 рану и 1 ужас , либо удалите 1 порчу с этой карты.\n<b>Карта создана The Impure на Arkham Nights 2019.</b>",
+        "traits": "Ритуал. Благословенный. Проклятый."
     }
 ]

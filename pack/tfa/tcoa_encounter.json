@@ -222,6 +222,7 @@
     },
     {
         "back_flavor": "At this point, it appeared, the desert’s sands lay directly upon a floor of some titan structure of earth’s youth - how preserved through aeons of geologic convulsion I could not then and cannot now even attempt to guess. - H. P. Lovecraft, <u>The Shadow out of Time</u>",
+        "back_subname": "Northern Corridors",
         "clues": 1,
         "clues_fixed": true,
         "code": "04248",
@@ -237,12 +238,13 @@
         "quantity": 1,
         "shroud": 3,
         "subname": "Northern Corridors",
-        "text": "[free] During your turn, choose and discard a card from your hand: Move to another copy of Halls of Pnakotus. (Limit once per turn.)",
+        "text": "[fast] During your turn, choose and discard a card from your hand: Move to another copy of Halls of Pnakotus. (Limit once per turn.)",
         "traits": "Ancient. Pnakotus.",
         "type_code": "location"
     },
     {
         "back_flavor": "At this point, it appeared, the desert’s sands lay directly upon a floor of some titan structure of earth’s youth - how preserved through aeons of geologic convulsion I could not then and cannot now even attempt to guess. - H. P. Lovecraft, <u>The Shadow out of Time</u>",
+        "back_subname": "Eastern Corridors",
         "clues": 1,
         "clues_fixed": true,
         "code": "04249",
@@ -258,12 +260,13 @@
         "quantity": 1,
         "shroud": 3,
         "subname": "Eastern Corridors",
-        "text": "[free] During your turn, choose and discard a card from your hand: Move to another copy of Halls of Pnakotus. (Limit once per turn.)",
+        "text": "[fast] During your turn, choose and discard a card from your hand: Move to another copy of Halls of Pnakotus. (Limit once per turn.)",
         "traits": "Ancient. Pnakotus.",
         "type_code": "location"
     },
     {
         "back_flavor": "At this point, it appeared, the desert’s sands lay directly upon a floor of some titan structure of earth’s youth - how preserved through aeons of geologic convulsion I could not then and cannot now even attempt to guess. - H. P. Lovecraft, <u>The Shadow out of Time</u>",
+        "back_subname": "Western Corridors",
         "clues": 1,
         "clues_fixed": true,
         "code": "04250",
@@ -279,7 +282,7 @@
         "quantity": 1,
         "shroud": 3,
         "subname": "Western Corridors",
-        "text": "[free] During your turn, choose and discard a card from your hand: Move to another copy of Halls of Pnakotus. (Limit once per turn.)",
+        "text": "[fast] During your turn, choose and discard a card from your hand: Move to another copy of Halls of Pnakotus. (Limit once per turn.)",
         "traits": "Ancient. Pnakotus.",
         "type_code": "location"
     },

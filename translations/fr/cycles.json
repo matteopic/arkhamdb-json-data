@@ -36,6 +36,22 @@
         "name": "Les Clefs Écarlates"
     },
     {
+        "code": "fhv",
+        "name": "Le Festin de Hemlock Vale"
+    },
+    {
+        "code": "tdc",
+        "name": "La Cité Engloutie"
+    },
+    {
+        "code": "core_ch2",
+        "name": "Boîte de Base (2026)"
+    },
+    {
+        "code": "promotional",
+        "name": "Promo"
+    },
+    {
         "code": "return",
         "name": "Renouveau"
     },
@@ -44,12 +60,12 @@
         "name": "Decks de départ Investigateur"
     },
     {
-        "code": "side_stories",
-        "name": "Scénarios Indépendants"
+        "code": "investigator_decks_ch2",
+        "name": "Decks Investigateur"
     },
     {
-        "code": "promotional",
-        "name": "Promo"
+        "code": "side_stories",
+        "name": "Scénarios Indépendants"
     },
     {
         "code": "parallel",

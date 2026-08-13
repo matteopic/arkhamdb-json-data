@@ -12,6 +12,10 @@
         "name": "Ai Confini della Terra"
     },
     {
+        "code": "fhv",
+        "name": "La Festa di Hemlock Vale"
+    },
+    {
         "code": "investigator",
         "name": "Mazzi Precostruiti"
     },
@@ -38,6 +42,10 @@
     {
         "code": "tcu",
         "name": "Il Circolo Spezzato"
+    },
+    {
+        "code": "tdc",
+        "name": "La Città Sommersa"
     },
     {
         "code": "tde",

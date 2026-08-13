@@ -704,6 +704,10 @@
         "name": "Suivre les Règles"
     },
     {
+        "code": "red_tide_rising",
+        "name": "Marée Montante Rouge"
+    },
+    {
         "code": "return_to_the_untamed_wilds",
         "name": "Renouveau – Une Contrée Sauvage"
     },
@@ -858,6 +862,14 @@
     {
         "code": "machinations_through_time",
         "name": "Machinations au Fil du Temps"
+    },
+    {
+        "code": "machinations_through_time_epic_multiplayer",
+        "name": "Epic Multiplayer"
+    },
+    {
+        "code": "machinations_through_time_single_group",
+        "name": "Single Group"
     },
     {
         "code": "return_to_disappearance_at_the_twilight_estate",
@@ -1122,5 +1134,353 @@
     {
         "code": "spreading_corruption",
         "name": "Corruption Rampante"
+    },
+    {
+        "code": "fortune_and_folly",
+        "name": "Fortune et Folie"
+    },
+    {
+        "code": "fortunes_chosen",
+        "name": "Les Élus de la Fortune"
+    },
+    {
+        "code": "plan_in_shambles",
+        "name": "Plans Chamboulés"
+    },
+    {
+        "code": "blob_that_ate_everything_else",
+        "name": "The Blob That Ate Everything Else"
+    },
+    {
+        "code": "migo_incursion_2",
+        "name": "Mi-Go Incursion II"
+    },
+    {
+        "code": "laid_to_rest",
+        "name": "Laid to Rest"
+    },
+    {
+        "code": "relics_of_the_past",
+        "name": "Reliques du Passé"
+    },
+    {
+        "code": "the_first_day",
+        "name": "Le Premier Jour"
+    },
+    {
+        "code": "the_second_day",
+        "name": "Le Deuxième Jour"
+    },
+    {
+        "code": "the_final_day",
+        "name": "Le Dernier Jour"
+    },
+    {
+        "code": "agents_of_the_colour",
+        "name": "Agents de la Couleur"
+    },
+    {
+        "code": "fate_of_the_vale",
+        "name": "Destin de Vale"
+    },
+    {
+        "code": "heirlooms",
+        "name": "Héritages"
+    },
+    {
+        "code": "horrors_in_the_rock",
+        "name": "Horreurs des Roches"
+    },
+    {
+        "code": "myconids",
+        "name": "Myconides"
+    },
+    {
+        "code": "residents",
+        "name": "Habitants"
+    },
+    {
+        "code": "the_longest_night",
+        "name": "La Nuit la Plus Longue"
+    },
+    {
+        "code": "the_silent_heath",
+        "name": "La Lande Silencieuse"
+    },
+    {
+        "code": "the_twisted_hollow",
+        "name": "Le Vallon Tortueux"
+    },
+    {
+        "code": "transfiguration",
+        "name": "Transfiguration"
+    },
+    {
+        "code": "day_of_rest",
+        "name": "Jour du repos"
+    },
+    {
+        "code": "day_of_rain",
+        "name": "Jour de Pluie"
+    },
+    {
+        "code": "day_of_the_feast",
+        "name": "Jour du Festin"
+    },
+    {
+        "code": "blight",
+        "name": "Décrépitude"
+    },
+    {
+        "code": "fire",
+        "name": "Au Feu !"
+    },
+    {
+        "code": "hemlock_house",
+        "name": "Hemlock House"
+    },
+    {
+        "code": "mutations",
+        "name": "Mutations"
+    },
+    {
+        "code": "refractions",
+        "name": "Réfractions"
+    },
+    {
+        "code": "the_forest",
+        "name": "La Forêt"
+    },
+    {
+        "code": "the_lost_sister",
+        "name": "La Sœur Perdue"
+    },
+    {
+        "code": "the_thing_in_the_depths",
+        "name": "La Chose des Profondeurs"
+    },
+    {
+        "code": "the_vale",
+        "name": "Le Val"
+    },
+    {
+        "code": "written_in_rock",
+        "name": "Gravé Dans la Pierre"
+    },
+    {
+        "code": "the_midwinter_gala",
+        "name": "Gala au Cœur de l'Hiver"
+    },
+    {
+        "code": "alien_machinery",
+        "name": "Alien Machinery"
+    },
+    {
+        "code": "the_apiary",
+        "name": "The Apiary"
+    },
+    {
+        "code": "cosmic_legacy",
+        "name": "Cosmic Legacy"
+    },
+    {
+        "code": "court_of_the_ancients",
+        "name": "Court of the Ancients"
+    },
+    {
+        "code": "deep_ones",
+        "name": "Deep Ones"
+    },
+    {
+        "code": "domination",
+        "name": "Domination"
+    },
+    {
+        "code": "the_doom_of_arkham_part_1",
+        "name": "The Doom of Arkham Part I"
+    },
+    {
+        "code": "the_doom_of_arkham_part_2",
+        "name": "The Doom of Arkham Part II"
+    },
+    {
+        "code": "dreams",
+        "name": "Dreams"
+    },
+    {
+        "code": "the_drowned_quarter",
+        "name": "The Drowned Quarter"
+    },
+    {
+        "code": "elder_mist",
+        "name": "Elder Mist"
+    },
+    {
+        "code": "tdc_expedition",
+        "name": "Expedition"
+    },
+    {
+        "code": "tdc_flood",
+        "name": "Flood"
+    },
+    {
+        "code": "the_grand_vault",
+        "name": "The Grand Vault"
+    },
+    {
+        "code": "the_inescapable",
+        "name": "The Inescapable"
+    },
+    {
+        "code": "obsidian_canyons",
+        "name": "Obsidian Canyons"
+    },
+    {
+        "code": "one_last_job",
+        "name": "One Last Job"
+    },
+    {
+        "code": "pilgrims",
+        "name": "Pilgrims"
+    },
+    {
+        "code": "rlyeh",
+        "name": "R'lyeh"
+    },
+    {
+        "code": "sepulchre_of_the_sleeper",
+        "name": "Sepulchre of the Sleeper"
+    },
+    {
+        "code": "star_spawn",
+        "name": "Star Spawn"
+    },
+    {
+        "code": "stowaways",
+        "name": "Stowaways"
+    },
+    {
+        "code": "tasks",
+        "name": "Tasks"
+    },
+    {
+        "code": "undersea_creatures",
+        "name": "Undersea Creatures"
+    },
+    {
+        "code": "the_western_wall",
+        "name": "The Western Wall"
+    },
+    {
+        "code": "film_fatale",
+        "name": "Film Fatale"
+    },
+    {
+        "code": "forgotten_island",
+        "name": "Forgotten Island"
+    },
+    {
+        "code": "abominable_contessa",
+        "name": "Abominable Contessa"
+    },
+    {
+        "code": "cosmic_journey",
+        "name": "Cosmic Journey"
+    },
+    {
+        "code": "enthralling_encore",
+        "name": "Enthralling Encore"
+    },
+    {
+        "code": "arcane_lock",
+        "name": "Arcane Lock"
+    },
+    {
+        "code": "arkham_ch2",
+        "name": "Arkham"
+    },
+    {
+        "code": "arkham_sewers",
+        "name": "Sewers"
+    },
+    {
+        "code": "ashen_pilgrims",
+        "name": "Ashen Pilgrims"
+    },
+    {
+        "code": "bad_weather",
+        "name": "Bad Weather"
+    },
+    {
+        "code": "bystanders",
+        "name": "Bystanders"
+    },
+    {
+        "code": "cosmic_evils",
+        "name": "Cosmic Evils"
+    },
+    {
+        "code": "cultists_ch2",
+        "name": "Cultists"
+    },
+    {
+        "code": "dead_ends",
+        "name": "Dead Ends"
+    },
+    {
+        "code": "eldritch_lore",
+        "name": "Eldritch Lore"
+    },
+    {
+        "code": "fire_ch2",
+        "name": "Fire!"
+    },
+    {
+        "code": "flying_terrors",
+        "name": "Flying Terrors"
+    },
+    {
+        "code": "gangs_of_arkham",
+        "name": "Gangs of Arkham"
+    },
+    {
+        "code": "hallucinations",
+        "name": "Hallucinations"
+    },
+    {
+        "code": "mad_science",
+        "name": "Mad Science"
+    },
+    {
+        "code": "miskatonic_university",
+        "name": "Miskatonic University"
+    },
+    {
+        "code": "people_of_arkham",
+        "name": "People of Arkham"
+    },
+    {
+        "code": "queen_of_ash",
+        "name": "Queen of Ash"
+    },
+    {
+        "code": "reeking_decay",
+        "name": "Reeking Decay"
+    },
+    {
+        "code": "smoke_and_mirrors",
+        "name": "Smoke and Mirrors"
+    },
+    {
+        "code": "spreading_flames",
+        "name": "Spreading Flames"
+    },
+    {
+        "code": "torment",
+        "name": "Torment"
+    },
+    {
+        "code": "whippoorwills_ch2",
+        "name": "Whippoorwills"
     }
 ]

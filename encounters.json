@@ -137,7 +137,7 @@
     },
     {
         "code": "blood_on_the_altar",
-        "name": "Blood On The Altar"
+        "name": "Blood on the Altar"
     },
     {
         "code": "undimensioned_and_unseen",
@@ -1162,7 +1162,7 @@
     {
         "code": "relics_of_the_past",
         "name": "Relics of the Past"
-    },    
+    },
     {
         "code": "the_first_day",
         "name": "The First Day"
@@ -1266,5 +1266,221 @@
     {
         "code": "written_in_rock",
         "name": "Written in Rock"
+    },
+    {
+        "code": "the_midwinter_gala",
+        "name": "The Midwinter Gala"
+    },
+    {
+        "code": "alien_machinery",
+        "name": "Alien Machinery"
+    },
+    {
+        "code": "the_apiary",
+        "name": "The Apiary"
+    },
+    {
+        "code": "cosmic_legacy",
+        "name": "Cosmic Legacy"
+    },
+    {
+        "code": "court_of_the_ancients",
+        "name": "Court of the Ancients"
+    },
+    {
+        "code": "deep_ones",
+        "name": "Deep Ones"
+    },
+    {
+        "code": "domination",
+        "name": "Domination"
+    },
+    {
+        "code": "the_doom_of_arkham_part_1",
+        "name": "The Doom of Arkham Part I"
+    },
+    {
+        "code": "the_doom_of_arkham_part_2",
+        "name": "The Doom of Arkham Part II"
+    },
+    {
+        "code": "dreams",
+        "name": "Dreams"
+    },
+    {
+        "code": "the_drowned_quarter",
+        "name": "The Drowned Quarter"
+    },
+    {
+        "code": "elder_mist",
+        "name": "Elder Mist"
+    },
+    {
+        "code": "tdc_expedition",
+        "name": "Expedition"
+    },
+    {
+        "code": "tdc_flood",
+        "name": "Flood"
+    },
+    {
+        "code": "the_grand_vault",
+        "name": "The Grand Vault"
+    },
+    {
+        "code": "the_inescapable",
+        "name": "The Inescapable"
+    },
+    {
+        "code": "obsidian_canyons",
+        "name": "Obsidian Canyons"
+    },
+    {
+        "code": "one_last_job",
+        "name": "One Last Job"
+    },
+    {
+        "code": "pilgrims",
+        "name": "Pilgrims"
+    },
+    {
+        "code": "rlyeh",
+        "name": "R'lyeh"
+    },
+    {
+        "code": "sepulchre_of_the_sleeper",
+        "name": "Sepulchre of the Sleeper"
+    },
+    {
+        "code": "star_spawn",
+        "name": "Star Spawn"
+    },
+    {
+        "code": "stowaways",
+        "name": "Stowaways"
+    },
+    {
+        "code": "tasks",
+        "name": "Tasks"
+    },
+    {
+        "code": "undersea_creatures",
+        "name": "Undersea Creatures"
+    },
+    {
+        "code": "the_western_wall",
+        "name": "The Western Wall"
+    },
+    {
+        "code": "film_fatale",
+        "name": "Film Fatale"
+    },
+    {
+        "code": "forgotten_island",
+        "name": "Forgotten Island"
+    },
+    {
+        "code": "abominable_contessa",
+        "name": "Abominable Contessa"
+    },
+    {
+        "code": "cosmic_journey",
+        "name": "Cosmic Journey"
+    },
+    {
+        "code": "enthralling_encore",
+        "name": "Enthralling Encore"
+    },
+    {
+        "code": "arcane_lock",
+        "name": "Arcane Lock"
+    },
+    {
+        "code": "arkham_ch2",
+        "name": "Arkham"
+    },
+    {
+        "code": "arkham_sewers",
+        "name": "Sewers"
+    },
+    {
+        "code": "ashen_pilgrims",
+        "name": "Ashen Pilgrims"
+    },
+    {
+        "code": "bad_weather",
+        "name": "Bad Weather"
+    },
+    {
+        "code": "bystanders",
+        "name": "Bystanders"
+    },
+    {
+        "code": "cosmic_evils",
+        "name": "Cosmic Evils"
+    },
+    {
+        "code": "cultists_ch2",
+        "name": "Cultists"
+    },
+    {
+        "code": "dead_ends",
+        "name": "Dead Ends"
+    },
+    {
+        "code": "eldritch_lore",
+        "name": "Eldritch Lore"
+    },
+    {
+        "code": "fire_ch2",
+        "name": "Fire!"
+    },
+    {
+        "code": "flying_terrors",
+        "name": "Flying Terrors"
+    },
+    {
+        "code": "gangs_of_arkham",
+        "name": "Gangs of Arkham"
+    },
+    {
+        "code": "hallucinations",
+        "name": "Hallucinations"
+    },
+    {
+        "code": "mad_science",
+        "name": "Mad Science"
+    },
+    {
+        "code": "miskatonic_university",
+        "name": "Miskatonic University"
+    },
+    {
+        "code": "people_of_arkham",
+        "name": "People of Arkham"
+    },
+    {
+        "code": "queen_of_ash",
+        "name": "Queen of Ash"
+    },
+    {
+        "code": "reeking_decay",
+        "name": "Reeking Decay"
+    },
+    {
+        "code": "smoke_and_mirrors",
+        "name": "Smoke and Mirrors"
+    },
+    {
+        "code": "spreading_flames",
+        "name": "Spreading Flames"
+    },
+    {
+        "code": "torment",
+        "name": "Torment"
+    },
+    {
+        "code": "whippoorwills_ch2",
+        "name": "Whippoorwills"
     }
 ]

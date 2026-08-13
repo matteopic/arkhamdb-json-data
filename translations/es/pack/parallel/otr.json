@@ -1,0 +1,25 @@
+[
+  {
+    "code": "90046",
+    "name": "Pete \"Cubo de Basura\"",
+    "subname": "El vagabundo",
+    "traits": "Vagabundo.",
+    "text": "Comienzas la partida con la Guitarra de Pete en juego.\n[reaction] Cuando una carta que poseas y que esté vinculada a una carta de Escenario fuese a ser descartada: En lugar de eso, añádela a tu mano. Límite de una vez por ronda.\nEfecto [elder_sign]: +1. Elige una carta que poseas y que esté vinculada a una carta de Escenario. Puedes devolver la carta elegida a tu mano.",
+    "flavor": "\"Vamos, chico. Tenemos trabajo que hacer.\"",
+    "back_text": "<b>Tamaño de mazo</b>: 30.\n<b>Opciones de creación de mazos</b>: Cartas Superviviente ([survivor]) de nivel 0-3, cartas [[Improvisado]] y [[Táctica]] de nivel 0-4, cartas neutrales de nivel 0-5, hasta otras 5 cartas de Guardián ([guardian]) de nivel 0.\n<b>Requisitos de creación de mazos</b> (no cuentan para el tamaño de mazo): Duke, Roto por las pesadillas, 1 Debilidad básica aleatoria.",
+    "back_flavor": "De noche, Pete \"Cubo de Basura\" duerme allí donde le hayan llevado sus viajes: en un campo, en un tren o quizá, si tiene suerte, en un granero. Comparte cama con Duke, su fiel sabueso, a un lado y con su destartalada guitarra al otro. Y a veces, cuando Pete duerme, sueña. Sueña con lugares encantados y torturados, y con horribles criaturas. Cuando despierta, sabe que alguien necesita su ayuda, porque sus sueños son verdad. No sabría decir cuánto lleva en la carretera, viviendo de su astucia, pero sí sabe que no hay lugar demasiado lejos como para no ayudar a quien lo necesita. Y mientras Pete pueda ayudar a la gente, no es probable que vaya a dejar de vagabundear por ahí."
+  },
+  {
+    "code": "90047",
+    "name": "Guitarra de Pete",
+    "subname": "Todavía aguanta",
+    "traits": "Objeto. Instrumento.",
+    "text": "Sólo para el mazo de Pete \"Cubo de Basura\". Reemplazo.\n[fast] Agota la Guitarra de Pete: Elige un Enemigo que no sea [[Élite]] y que esté en tu Lugar o en un Lugar conectado. Mueve ese Enemigo una vez en una dirección de tu elección. A continuación, si no hay Enemigos en tu Lugar, cúrate 1 punto de horror o bien obtén 1 recurso."
+  },
+  {
+    "code": "90048",
+    "name": "Tiempos difíciles",
+    "traits": "Adversidad.",
+    "text": "Sólo para el mazo de Pete \"Cubo de Basura\". Reemplazo.\n<b>Revelación</b> - Pon Tiempos difíciles en juego en tu zona de amenaza.\n<b>Obligado</b> - Después de que robes 1 o más cartas: Elige y descarta esa misma cantidad de cartas de tu mano.\n[action][action]: Descarta Tiempos difíciles."
+  }
+]

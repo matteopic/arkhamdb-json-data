@@ -16,6 +16,10 @@
         "name": "적"
     },
     {
+        "code": "enemy_location",
+        "name": "적-장소"
+    },
+    {
         "code": "event",
         "name": "이벤트"
     },

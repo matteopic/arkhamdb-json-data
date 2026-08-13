@@ -4,6 +4,10 @@
         "name": "Grundspiel"
     },
     {
+        "code": "core_ch2",
+        "name": "Grundspiel (2026)"
+    },
+    {
         "code": "dwl",
         "name": "Das Vermächtnis von Dunwich"
     },
@@ -12,8 +16,16 @@
         "name": "Am Rande der Welt"
     },
     {
+        "code": "fhv",
+        "name": "Das Fest von Hemlock Vale"
+    },
+    {
         "code": "investigator",
         "name": "Einsteigerdecks"
+    },
+    {
+        "code": "investigator_decks_ch2",
+        "name": "Ermittlerdecks"
     },
     {
         "code": "parallel",
@@ -40,6 +52,10 @@
         "name": "Der gebrochene Kreis"
     },
     {
+        "code": "tdc",
+        "name": "Die Versunkene Stadt"
+    },
+    {
         "code": "tde",
         "name": "Die Traumfresser"
     },
@@ -54,9 +70,5 @@
     {
         "code": "tsk",
         "name": "Die scharlachroten Schlüssel"
-    },
-    {
-        "code": "fhv",
-        "name": "Das Fest von Hemlock Vale"
     }
 ]
