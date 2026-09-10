@@ -108,7 +108,7 @@
     "traits": "Miskatonic."
   },
   {
-    "back_flavor": "The construction of the West Memorial Science Hall at the northern end of campus is confusing, to say the least. However, students nevertheless are more than happy for the modern facilities and state-of-the-art science equipment.",
+    "back_flavor": "Che il Polo Scientifico West si trovi nell'ala nord del campus disorienta a dir poco. Ciononostante, gli studenti sono lieti di godere delle installazioni moderne e dell'equipaggiamento all'avanguardia.",
     "code": "12118",
     "flavor": "Gli studenti non possono mai essere certi di cosa passerà sotto i loro microscopi.",
     "name": "Polo Scientifico",
@@ -120,7 +120,7 @@
     "code": "12119",
     "flavor": "A oggi, gli astronomi della Miskatonic hanno identificato almeno 15 stelle diverse che sembrano essere scomparse dall'emisfero settentrionale.",
     "name": "Osservatorio Warren",
-    "text": "[reaction] Dopo che hai scoper to 1 o più indizi in questo luogo: Pesca 1 carta. (Limite di una volta per round.)",
+    "text": "[reaction] Dopo che hai scoperto 1 o più indizi in questo luogo: Pesca 1 carta. (Limite di una volta per round.)",
     "traits": "Miskatonic."
   },
   {
@@ -293,7 +293,7 @@
     "code": "12144",
     "name": "Margaret Liu",
     "subname": "Cantante Fascinosa",
-    "text": "Sfuggente <i>(questo nemico non impegna automaticamente gli investigatori nel suo luogo)</i>.\n[reaction] Dopo che avuto successo di 2  o più punti in una prova di abilità nel luogo di Margaret Liu: ([codex] 6).",
+    "text": "Sfuggente <i>(questo nemico non impegna automaticamente gli investigatori nel suo luogo)</i>.\n[reaction] Dopo che hai avuto successo di 2 o più punti in una prova di abilità nel luogo di Margaret Liu: ([codex] 6).",
     "traits": "Umanoide. Mondano. Elite."
   },
   {
