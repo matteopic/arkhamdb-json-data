@@ -438,6 +438,7 @@
     "encounter_code": "written_in_rock",
     "encounter_position": 36,
     "deck_limit": 1,
+    "errata_date": "2024-10-23",
     "faction_code": "neutral",
     "illustrator": "Kate Swazee",
     "is_unique": true,
@@ -1438,7 +1439,7 @@
     "position": 60,
     "quantity": 1,
     "shroud": 3,
-    "text": "<b>Revelation</b> - Put Crystal Nursery into play adjacent to the location from which it was drawn <b>([codex] Ф)</b> <i>(page 21)</i>.\n[reaction] After you end your turn in Crystal Nursery, take 1 direct horror: Draw the top card of the stack beneath Crystal Nursery. (Group limit once per round.)",
+    "text": "<b>Revelation</b> - Put Crystal Nursery into play adjacent to the location from which it was drawn <b>([codex] Φ)</b> <i>(page 21)</i>.\n[reaction] After you end your turn in Crystal Nursery, take 1 direct horror: Draw the top card of the stack beneath Crystal Nursery. (Group limit once per round.)",
     "traits": "Cave. Lair. Blight.",
     "type_code": "location"
   },
@@ -1771,6 +1772,7 @@
     "double_sided": true,
     "encounter_code": "the_lost_sister",
     "encounter_position": 11,
+    "errata_date": "2024-10-23",
     "faction_code": "mythos",
     "illustrator": "Pixoloid Studios",
     "name": "Weed-Choked Beach",
@@ -1779,7 +1781,7 @@
     "quantity": 1,
     "shroud": 3,
     "text": "<b>Forced</b> - After you fail a skill test while attempting to evade at Weed-Choked Beach: Lose 1 action.\n<b>Forced</b> - When you would leave Weed-Choked Beach: Reveal a chaos token. If a [skull], [tablet], [elder_thing], or [auto_fail] is revealed, you must either cancel the effects of the move or discard an [[Item]] asset you control.",
-    "traits": "Coastal. Cave.",
+    "traits": "Cave. Coastal.",
     "type_code": "location"
   },
   {
